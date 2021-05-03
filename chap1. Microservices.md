@@ -66,3 +66,8 @@ But 단점도 존재한다.
 ### 1.5 은총알(Silver Bullet)은 없다.
 
 마이크로서비스는 공짜도, 은총알도, 황금망치도 아니다! 
+
+
+### 참고할만한 링크
+- [[우아콘2020] 배달의민족 마이크로서비스 여행기](https://www.youtube.com/watch?v=BnS6343GTkY)
+- [Do Not Use MSA - 마이크로서비스 아키텍처가 꼭 필요한가요?](https://www.samsungsds.com/kr/insights/msa.html)
