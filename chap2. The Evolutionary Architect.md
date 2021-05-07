@@ -27,7 +27,7 @@
 
 ## 2.5 필수 기준
 
-1. 모니터링 : 서비스 세부 상태가 아닌 시스템 전체 상태를 볼 수 있어야 한다. 이 과정에서 지표(metrics)를 모니터링할것을 제안한다. 예로, Graphite, Nagios, 폴링시스템이 있다.
+1. 모니터링 : 서비스 세부 상태가 아닌 시스템 전체 상태를 볼 수 있어야 한다. 이 과정에서 지표(metrics)를 모니터링할것을 제안한다. 예로, [Graphite](https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%98%ED%8C%8C%EC%9D%B4%ED%8A%B8_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)), [Nagios](https://server-talk.tistory.com/157), [폴링시스템](https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A7%81_(%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99))이 있다.
 2. 인터페이스 : 서비스 간 인터페이스의 개수는 가능한 한 최소로 유지하는것이 좋다.
 3. 아키텍처 안정성 : 오동작하는 하나의 서비스가 전체를 망가뜨리게 하면 안된다.
 
