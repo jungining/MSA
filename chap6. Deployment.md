@@ -100,6 +100,7 @@
     - 단 : 증가된 호스트 숫자 / 비용
 4. PaaS(Platform as a Service)
 - ex) Heroku : 서비스의 실행 처리, DB같은 서비스도 지원
+- ![image](https://user-images.githubusercontent.com/11023497/121039110-c6b62580-c7eb-11eb-8158-eabdf4bc38cd.png)
 
 
 ## 6.10 자동화
