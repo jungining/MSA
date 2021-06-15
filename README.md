@@ -6,7 +6,7 @@
 4. [Integration](https://github.com/jungining/MSA/blob/main/chap4.%20Integration.md)
 5. [Splitting the Monolith](https://github.com/jungining/MSA/blob/main/chap5.%20Splitting%20the%20Monolith.md)
 6. [Deployment](https://github.com/jungining/MSA/blob/main/chap6.%20Deployment.md)
-7. Testing
+7. [Testing](https://github.com/jungining/MSA/blob/main/chap7.%20testing.md)
 8. Monitoring
 9. Security
 10. Conway’s Law and System Design
