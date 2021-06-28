@@ -8,7 +8,7 @@
 6. [Deployment](https://github.com/jungining/MSA/blob/main/chap6.%20Deployment.md)
 7. [Testing](https://github.com/jungining/MSA/blob/main/chap7.%20testing.md)
 8. [Monitoring](https://github.com/jungining/MSA/blob/main/chap8.%20monitoring.md)
-9. Security
+9. [Security](https://github.com/jungining/MSA/blob/main/chap9.%20security.md)
 10. Conway’s Law and System Design
 11. Microservices at Scale
 12. Bringing It All Together
