@@ -72,4 +72,4 @@
  - Swagger, [HAL(Hypertext Application Language)](https://velog.io/@pop8682/%EB%B2%88%EC%97%AD-HAL-Hypertext-Application-Language)과 HAL 브라우저
 
 ## 11.15 자기 기술 시스템
-- 인간형 레지스트리(humane registry) : 사람이 조직으 ㅣ서비스에 관한 정보를 위키처럼 쉬운 방식으로 기록할 수 있는 장소를 두는 것
+- 인간형 레지스트리(humane registry) : 사람이 조직의 서비스에 관한 정보를 위키처럼 쉬운 방식으로 기록할 수 있는 장소를 두는 것
