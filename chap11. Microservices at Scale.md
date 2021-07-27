@@ -52,7 +52,7 @@
 - 쓰기용 확장(scaling for wirte)
     - 샤딩(sharding)을 사용하는 모델이 있음
 - 공유 데이터베이스 스트럭처 : 동작 중인 데이터베이스가 독립적인 다수의 스키마(한 스키마당 다수의 마이크로서비스)를 호스팅, 대재앙 초래 가능
-- 명령과 질의에 대한 책임 분리 패턴, CQRS(Command and Query Responsibility Segregation) : 시스템의 일부가 명령을 처리해서 상태를 변경하는 요청을 캡쳐하며 시스템의 다른 부분이 를 처리한다.
+- 명령과 질의에 대한 책임 분리 패턴, CQRS(Command and Query Responsibility Segregation) : 시스템의 일부가 명령을 처리해서 상태를 변경하는 요청을 캡쳐하며 시스템의 다른 부분이 쿼리를 처리한다.
 ## 11.9 캐싱
 
 ## 11.10 자동 확장 (Auto Scaling)
